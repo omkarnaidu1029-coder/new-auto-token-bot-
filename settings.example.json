@@ -1,0 +1,8 @@
+{
+  "telegramAutoBotToken": "YOUR_BOT_TOKEN_HERE",
+  "admin_ids": [YOUR_TELEGRAM_USER_ID],
+  "channel_username": "",
+  "channel_title": "",
+  "channel_link": "",
+  "smsForwarderNumber": ""
+}

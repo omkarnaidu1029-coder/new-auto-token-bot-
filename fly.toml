@@ -1,0 +1,12 @@
+app = "auto-token-bot"
+primary_region = "sjc"
+
+[build]
+
+[env]
+  PYTHON_VERSION = "3.11"
+
+[[vm]]
+  memory = "256mb"
+  cpu_kind = "shared"
+  cpus = 1
